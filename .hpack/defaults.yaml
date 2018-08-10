@@ -7,3 +7,5 @@ ghc-options:
   - -Wno-missing-local-signatures
   - -Wno-missing-import-lists
   - -Wno-implicit-prelude
+  - -Wno-all-missed-specialisations
+  - -Wno-safe
